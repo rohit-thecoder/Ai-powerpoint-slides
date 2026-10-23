@@ -1,0 +1,63 @@
+MEETING NOTES - Q3 2026 BUSINESS REVIEW
+Company: Northwind Analytics
+Date: October 8, 2026
+Attendees: Priya Sharma (CEO), Daniel Okafor (CFO), Mei Tanaka (VP Sales), Lucas Meyer (VP Product), Ana Costa (Head of Customer Success)
+
+--------------------------------------------------
+1. OPENING REMARKS
+--------------------------------------------------
+Priya opened by noting that Q3 was the strongest quarter in company history. Total revenue reached $4.74M, a 12% increase over Q2 and a 31% increase year over year. The leadership team agreed that the focus for Q4 should be profitable growth and expansion in Asia Pacific.
+
+--------------------------------------------------
+2. FINANCIAL HIGHLIGHTS (Daniel)
+--------------------------------------------------
+- Total Q3 revenue: $4.74M (Q2: $4.23M)
+- Gross margin improved from 71% to 74%
+- Operating expenses grew 6%, slower than revenue growth
+- Cash runway extended to 28 months
+- Annual recurring revenue (ARR) crossed $17M
+
+--------------------------------------------------
+3. SALES UPDATE (Mei)
+--------------------------------------------------
+- North America remains the largest market at 43% of revenue
+- Asia Pacific is the fastest growing region at 18% quarter-over-quarter
+- Won 3 enterprise deals above $250K each, including a major logistics company in Singapore
+- Sales cycle for enterprise deals shortened from 94 days to 81 days
+- Pipeline for Q4 stands at $6.2M with a 38% expected close rate
+
+--------------------------------------------------
+4. PRODUCT UPDATE (Lucas)
+--------------------------------------------------
+- Launched AI Assistant feature for Analytics Pro in July; adopted by 46% of active accounts within 10 weeks
+- Insight Lite mobile app released in September with 12,000 downloads in the first month
+- Planned for Q4: real-time dashboards, Slack and Teams integrations
+- Top customer request: custom report templates (planned for Q1 2027)
+
+--------------------------------------------------
+5. CUSTOMER SUCCESS (Ana)
+--------------------------------------------------
+- Customer satisfaction score rose to 4.4 out of 5 (Q2: 4.2)
+- Churn rate fell to 3.2%, the lowest recorded
+- Net promoter score is 52, up 7 points
+- Support response time averages 2.1 hours, down from 3.4 hours
+- Main churn reason: pricing concerns among small business customers on Insight Lite
+
+--------------------------------------------------
+6. RISKS AND CHALLENGES
+--------------------------------------------------
+- Currency fluctuation may reduce European revenue by an estimated 2-3%
+- Two competitors launched low-cost AI analytics tools in September
+- Hiring for data science roles is taking 60+ days on average
+- Dependence on a few large enterprise accounts (top 10 customers = 29% of revenue)
+
+--------------------------------------------------
+7. ACTION ITEMS
+--------------------------------------------------
+- Mei: Open a Sydney sales office by end of Q4
+- Lucas: Ship real-time dashboards by December 15
+- Ana: Launch a pricing review for Insight Lite small business plan by November 30
+- Daniel: Prepare a currency hedging proposal for the board
+- Priya: Present Q3 results and Q4 plan to the board on October 20
+
+Next review meeting: January 12, 2027

@@ -1,0 +1,19 @@
+quarter,region,product,revenue_usd,units_sold,new_customers,churn_rate_pct,customer_satisfaction
+Q1 2026,North America,Analytics Pro,1250000,830,112,2.8,4.4
+Q1 2026,North America,Insight Lite,420000,2100,260,4.1,4.0
+Q1 2026,Europe,Analytics Pro,890000,590,78,3.2,4.3
+Q1 2026,Europe,Insight Lite,310000,1550,190,4.6,3.9
+Q1 2026,Asia Pacific,Analytics Pro,640000,430,95,3.9,4.2
+Q1 2026,Asia Pacific,Insight Lite,280000,1400,230,5.0,3.8
+Q2 2026,North America,Analytics Pro,1410000,940,125,2.6,4.5
+Q2 2026,North America,Insight Lite,455000,2280,285,3.9,4.1
+Q2 2026,Europe,Analytics Pro,960000,640,84,3.0,4.3
+Q2 2026,Europe,Insight Lite,335000,1670,205,4.4,4.0
+Q2 2026,Asia Pacific,Analytics Pro,745000,500,118,3.6,4.3
+Q2 2026,Asia Pacific,Insight Lite,325000,1620,270,4.7,3.9
+Q3 2026,North America,Analytics Pro,1580000,1050,140,2.4,4.6
+Q3 2026,North America,Insight Lite,490000,2450,310,3.7,4.2
+Q3 2026,Europe,Analytics Pro,1040000,695,92,2.9,4.4
+Q3 2026,Europe,Insight Lite,360000,1800,225,4.2,4.1
+Q3 2026,Asia Pacific,Analytics Pro,880000,590,150,3.3,4.4
+Q3 2026,Asia Pacific,Insight Lite,390000,1950,335,4.4,4.0
